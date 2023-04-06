@@ -1,5 +1,5 @@
 const notes = require('express').Router();
-const { json } = require('express');
+// const { json } = require('express');
 const { readFromFile, readAndAppend } = require('../helpers/fsFunction');
 const fs = require('fs');
 
