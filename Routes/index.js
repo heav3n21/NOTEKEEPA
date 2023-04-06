@@ -1,6 +1,6 @@
-const express = require(`express`);
+const app = require(`express`).Router();
 const notesRouter = require('./notesRouter');
-const app = express();
+// const app = express()
 app.use(express.json());
 app.use(express.urlencoded({extended: true}))
 
