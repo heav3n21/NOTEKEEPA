@@ -33,7 +33,7 @@ file in your terminal. The tool will guide you through the process of creating y
 
 
     
-![its an img](h)
+![alt text](./note%20keepa.PNG)
 
 ## Credits
 * Collaborators
